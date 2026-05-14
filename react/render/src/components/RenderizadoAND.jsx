@@ -1,6 +1,6 @@
 export default function RenderizadoAND() {
 
-  const isLoading = false;
+  const isLoading = true;
 
   return (
     <>

@@ -38,7 +38,7 @@ export default function RenderizadoLista() {
         </tr>
       </thead>
       <tbody>
-        {listadoUsuarios.map((value, index)=>{
+        {listadoUsuarios.map((value, index) => {
           return (
             <tr key={index}>
               <td>{value.nombre}</td>
